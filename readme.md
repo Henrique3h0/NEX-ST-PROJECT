@@ -94,9 +94,7 @@ A documentação completa da API, incluindo detalhes sobre os endpoints, parâme
 
 ## Problemas ou Dúvidas
 
-Se você encontrar algum problema ou tiver dúvidas sobre a utilização da API ou da interface, consulte a documentação ou entre em contato com a equipe responsável pelo repositório. Aqui estão algumas formas de obter ajuda:
-
-- **Verifique a documentação PDF**: Ela contém todas as informações necessárias para começar.
+- **Verifique a documentação PDF ou documentação interativa**: Ela contém todas as informações necessárias para começar.
 ---
 
 **Boa sorte e divirta-se testando a API!**
