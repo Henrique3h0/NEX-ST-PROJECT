@@ -90,6 +90,7 @@ A interface oferece uma maneira visual de testar os endpoints da API, facilitand
 A documentação completa da API, incluindo detalhes sobre os endpoints, parâmetros, e exemplos de requisições, está disponível no arquivo **docs.pdf**. Esse documento fornece informações detalhadas sobre como utilizar a API de forma eficiente e compreensiva.
 
 - **docs.pdf**: [Acesse aqui](./docs.pdf) para a documentação detalhada.
+- **documentação interativa**: [Acesse aqui](https://limawebvision.site/nasten/docs/) para a documentação detalhada.
 
 ## Problemas ou Dúvidas
 
